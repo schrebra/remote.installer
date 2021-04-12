@@ -18,6 +18,6 @@ PsExec runs as a service on the remote machine and executes commands.
 It then copys the files local.installer.bat and your program into the C:\temp\ on the remote machine
 Then the installer.ps1 runs local.installer.bat which runs the target program.
 
-<H1>Is there a better or faster way to do this?
+<H2>Is there a better or faster way to do this?
   
 Yes! Absolutely there is, but this is the way I knew how to do it at the time.
